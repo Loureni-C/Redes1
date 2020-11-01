@@ -1,2 +1,2 @@
-Redes neurais com mais camadas
+Tentativas de criação de redes neurais para trabalhos futuros.
 
